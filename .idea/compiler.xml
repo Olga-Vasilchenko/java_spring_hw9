@@ -8,7 +8,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Microservice1" />
-        <module name="Seminar6HomeWork6" />
         <module name="eureka-server" />
         <module name="Microservice2" />
         <module name="ApiGateAway" />
