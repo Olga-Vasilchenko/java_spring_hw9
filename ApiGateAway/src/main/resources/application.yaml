@@ -1,0 +1,21 @@
+server:
+  port: 8765
+
+spring:
+  application:
+    name: api-gateway
+  cloud:
+    gateway:
+      routes:
+        - id: Microservice1
+          uri: http://localhost:8086/
+          predicates:
+            - Path=/service1/**
+        - id: Microservice2
+          uri: http://localhost:8087/
+          predicates:
+            - Path=/service2/**
+        - id: Seminar6HomeWork6
+          uri: http://localhost:8089/
+          predicates:
+            - Path=/note_service/**

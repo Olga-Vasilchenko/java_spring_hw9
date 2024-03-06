@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ApiGateAway/ApiGateAway.iml" filepath="$PROJECT_DIR$/ApiGateAway/ApiGateAway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/HW9.iml" filepath="$PROJECT_DIR$/.idea/HW9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Microservices1/Microservice1.iml" filepath="$PROJECT_DIR$/Microservices1/Microservice1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Microservices2/Microservice2.iml" filepath="$PROJECT_DIR$/Microservices2/Microservice2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar6HomeWork6/Seminar6HomeWork6.iml" filepath="$PROJECT_DIR$/Seminar6HomeWork6/Seminar6HomeWork6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaServer/eureka-server.iml" filepath="$PROJECT_DIR$/EurekaServer/eureka-server.iml" />
+    </modules>
+  </component>
+</project>
